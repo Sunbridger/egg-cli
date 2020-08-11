@@ -1,8 +1,8 @@
 {
-  "name": "sunbridger-cli",
+  "name": "sunegg-cli",
   "version": "1.3.0",
   "description": "this is a cli for vue",
-  "repository": "https://github.com/Sunbridger/my-cli",
+  "repository": "https://github.com/Sunbridger/egg-cli",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

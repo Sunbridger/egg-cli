@@ -1,28 +1,24 @@
-# 一个通用性的vue脚手架
->vue工程化开发模式
+# 一个通用性的egg脚手架
+>egg+ts+sequlize
 
 ## install
 
 ```
-npm i sunbridger-cli -g
+npm i sunegg-cli -g
 ```
 or
 ```
-yarn global add sunbridger-cli
+yarn global add sunegg-cli
 ```
 
 ## use
 
 在任意终端输入：
 
-```sun init yourProjectName```
-
-or
-
-```sunbridger```
+```sunegg init youProjectName```
 
 
 
 ## 模板参考
 
-[模板链接](https://github.com/Sunbridger/vue-cli-template)
+[模板链接](https://github.com/Sunbridger/egg-cli-template)
