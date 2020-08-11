@@ -1,7 +1,7 @@
 {
   "name": "sunegg-cli",
-  "version": "1.3.0",
-  "description": "this is a cli for vue",
+  "version": "1.3.1",
+  "description": "this is a cli for egg",
   "repository": "https://github.com/Sunbridger/egg-cli",
   "main": "index.js",
   "scripts": {
